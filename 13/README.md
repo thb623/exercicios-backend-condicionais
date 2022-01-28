@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercícios extras 🌟
+# Exercício 13
 
 ## Compra com Desconto
 

@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercícios de classe 🏫
+# Exercício 08
 
 ## Montanha Russa Muito Assustadora
 
