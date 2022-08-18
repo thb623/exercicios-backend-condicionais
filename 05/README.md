@@ -9,15 +9,13 @@ Numa "peneira" (processo seletivo para novos jogadores) de vôlei, em alguns clu
 Imprima na tela **APROVADO** caso o jogador tenha 180cm de altura ou mais
 Imprima na tela **REPROVADO** caso o jogador tenha menos de 180cm
 
-
-```javascript=
+```javascript
 const alturaEmCm = 185;
 
 //seu código aqui
-
 ```
 
-Neste exemplo a resposta correta é **APROVADO**
+Neste exemplo a resposta correta é `APROVADO`
 
 ---
 

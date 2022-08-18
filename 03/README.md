@@ -13,7 +13,9 @@ const ladoB = 3;
 //seu código aqui
 ```
 
-Neste exemplo a resposta correta é ***SIM**. Lembre-se de testar seu código para outras variações de entrada.
+Neste exemplo a resposta correta é `SIM`.
+
+Lembre-se de testar seu código para outras variações de entrada.
 
 ---
 

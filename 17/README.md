@@ -4,9 +4,9 @@
 
 ## Extrato de Compra Online
 
-**a)** Dado o valor de um produto, a quantidade de parcelas escolhida e quanto já foi pago, Faça um programa que ajude a Fernanda a saber o valor restante para pagamento e quantas parcelas faltam pagar.
+Dado o valor de um produto, a quantidade de parcelas escolhida e quanto já foi pago, faça um programa que ajude a Fernanda a saber o valor restante para pagamento e quantas parcelas faltam pagar.
 
-```javascript=
+```javascript
 //valor do produto comprado.
 const valorDoProduto = 100000;
 
@@ -19,7 +19,9 @@ const valorPago = 300;
 
 Para o exemplo acima, o programa deve imprimir a mensagem:
 
-`Restam 7 parcelas de R$100`
+```
+Restam 7 parcelas de R$100
+```
 
 Teste seu programa para outras entradas.
 
