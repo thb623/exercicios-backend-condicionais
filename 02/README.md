@@ -14,7 +14,9 @@ const jogada2 = 3;
 
 ```
 
-A resposta deste exemplo é **par**. Lembre-se de testar seu código para outras variações de entrada.
+A resposta deste exemplo é `par`.
+
+Lembre-se de testar seu código para outras variações de entrada.
 
 ---
 

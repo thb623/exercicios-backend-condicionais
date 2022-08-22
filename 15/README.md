@@ -11,7 +11,7 @@ Escreva um código que imprima no console apenas o apelido (se o apelido estiver
 
 #### Exemplo primeiro nome:
 
-```javascript=
+```javascript
 const primeiroNome = "Mario";
 const sobrenome = "";
 const apelido = "";
@@ -20,6 +20,7 @@ const apelido = "";
 ```
 
 Para o exemplo acima, deverá ser impresso no console apenas:
+
 ```
 Mario
 ```
@@ -27,7 +28,8 @@ Mario
 Teste também para outros casos de uso, como por exemplo quando o apelido estiver preenchido, que deverá ser impresso apenas o apelido, e também teste quando sobrenome estiver preenchido que deverá imprimir no console primeiro nome + sobrenome.
 
 #### Exemplo apelido:
-```javascript=
+
+```javascript
 const primeiroNome = "Mario";
 const sobrenome = "";
 const apelido = "Bros";
@@ -36,12 +38,14 @@ const apelido = "Bros";
 ```
 
 Para o exemplo acima, deverá ser impresso no console apenas:
+
 ```
 Bros
 ```
 
 #### Exemplo com sobrenome:
-```javascript=
+
+```javascript
 const primeiroNome = "Mario";
 const sobrenome = "Bros";
 const apelido = "";
@@ -50,6 +54,7 @@ const apelido = "";
 ```
 
 Para o exemplo acima, deverá ser impresso no console apenas:
+
 ```
 Mario Bros
 ```

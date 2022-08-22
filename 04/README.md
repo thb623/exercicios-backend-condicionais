@@ -16,6 +16,14 @@ Modifique o código anterior para que, quando a pedra for uma bucha, digamos qua
 | 5        | Quina  |
 | 6        | Sena   |
 
+Para o caso do exercício anterior, deverá ser impresso na tela:
+
+```
+    Bucha de terno
+```
+
+Lembre-se de testar seu código para outras variações de entrada.
+
 ---
 
 Preencha a checklist para finalizar o exercício:
